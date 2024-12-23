@@ -4,7 +4,7 @@ import { Heart, Sparkles, Stars } from 'lucide-react';
 const LikeReasons = () => {
   const reasons = [
     "How you always know how to make me laugh",
-    "The cute way you scrunch your nose",
+    "All your different facial expressions",
     "The way you always listen to me and understand me",
     "The way you care about your friends and family",
     "Your hugs that make everything better",
